@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "972367186309",
+    "project_id": "idle-mine",
+    "storage_bucket": "idle-mine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972367186309:android:9028353dafe907289d5cec",
+        "android_client_info": {
+          "package_name": "com.idel.idleminekling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972367186309-ch00a7tqo8qhavsninhjanmgc8ebufvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idel.idleminekling",
+            "certificate_hash": "8cda9efad03492c8ccf501a128ecb788edf59584"
+          }
+        },
+        {
+          "client_id": "972367186309-jfam90q068edos56mlvhk7rjl1l0ea1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idel.idleminekling",
+            "certificate_hash": "8f64c40b18cad265cb4085accb883f0ae205d432"
+          }
+        },
+        {
+          "client_id": "972367186309-j1k9kpajlrqg3854fshh5nff7ao0jrti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6f_f0Xk2KzXQuB5sST308O69NPQgu1w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972367186309-j1k9kpajlrqg3854fshh5nff7ao0jrti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "972367186309-i4ons35mk6jvvsirbfa6b3j0q8ntb4vp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "IDLEMINE.IO"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
